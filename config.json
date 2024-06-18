@@ -1,0 +1,10 @@
+{
+	"db":{
+		"Server": "localhost",
+		"UserID":"sa",
+		"Password":"123456",
+		"Database":"codigo_azul",
+		"Port":1433
+	},
+	"AppPort":8081
+}
